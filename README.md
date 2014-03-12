@@ -1,2 +1,2 @@
-animation
+Example for custom animations
 =========
